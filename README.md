@@ -8,7 +8,7 @@ Python script to send Blue Iris motion detection alerts with an attached image t
 
 1. Open settings for camera you want to receive notifications from
 1. On Trigger tab: Check 'Capture an alert list image', and 'Store alert images as hi-res files'
-   1. This setting is required for the &ALERT_PATH macro to work.  Without it you'll get a notification without the alert image
+   1. This setting is required for the `&ALERT_PATH` macro to work.  Without it you'll get a notification without the alert image
 1. On Alerts tab: Click 'On alert...' button
 1. In Action set window press the + and choose 'Run a program or script'
    1. For File: Choose this python script
