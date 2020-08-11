@@ -1,6 +1,6 @@
 # Pushover Blue Iris Integration
 
-Python script to send Blue Iris motion detection alerts with images to Pushover.
+Python script to send Blue Iris motion detection alerts with an attached image to Pushover.
 
 ## Setup Instructions
 
