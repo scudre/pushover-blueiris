@@ -1,4 +1,4 @@
-#!C:\Python38-32\python.exe
+#!/usr/bin/env python3
 #
 # alert_notify.py version 0.1
 #
