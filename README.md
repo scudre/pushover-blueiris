@@ -12,7 +12,7 @@ Python script to send Blue Iris motion detection alerts with images to Pushover.
 1. On Alerts tab: Click 'On alert...' button
 1. In Action set window press the + and choose 'Run a program or script'
    1. For File: Choose this python script
-   1. For Parameters set it exactly to: `"%X %x" "&CAM" "&ALERT_PATH"` 
+   1. For Parameters set it exactly to: `"%X %x" "&CAM" "&ALERT_PATH"` <p align="center"><img src="cfg-run-action.PNG" width=500 /></p>
 1. Repeat for each camera you want to receive notifications from
 
 ### Step 2: Required Script Configuration in `alert_notify.py`
